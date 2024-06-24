@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me: https://www.linkedin.com/in/anjali-sharma17/
-- 😄 Pronouns: Miss
+- 😄 Pronouns: Miss Anjali
 
 
 <!---
